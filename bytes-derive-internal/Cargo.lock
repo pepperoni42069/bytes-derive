@@ -3,13 +3,6 @@
 version = 3
 
 [[package]]
-name = "bytes-derive"
-version = "0.1.0"
-dependencies = [
- "bytes-derive-internal",
-]
-
-[[package]]
 name = "bytes-derive-internal"
 version = "0.1.0"
 dependencies = [
